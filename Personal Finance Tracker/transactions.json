@@ -1,0 +1,1 @@
+{"Salary": [{"ID": "1", "type": "Income", "amount": 5000.0, "date": "2024-01-15"}], "Groceries": [{"ID": "2", "type": "Expense", "amount": "1000.0", "date": "2024-01-15"}], "Rent": [{"ID": "3", "type": "Expense", "amount": "1500.0", "date": "2024-01-20"}], "Health care": []}
